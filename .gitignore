@@ -31,3 +31,10 @@ logs/
 
 ### config with submodule ###
 /src/main/resources/application-*.yml
+/out/production/classes/com/yaans/search/BlogSearchApplication.class
+/out/production/classes/application.yml
+/out/production/classes/application-local.yml
+/out/production/resources/blog-search-config/application-local.yml
+/out/production/resources/application.yml
+/out/production/resources/application-local.yml
+/test.mv.db
