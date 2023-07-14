@@ -1,1 +1,11 @@
+# [ public config ]
 
+# health check
+management:
+  endpoints:
+    web:
+      base-path: /
+
+  endpoint:
+    health:
+      show-details: always
