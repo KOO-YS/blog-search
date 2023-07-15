@@ -1,3 +1,3 @@
 [submodule "config"]
 	path = src/main/resources/blog-search-config
-	url = git@github.com:KOO-YS/blog-search-config.git
+	url = https://github.com/KOO-YS/blog-search-config.git
